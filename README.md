@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @Buliboul
-- 
-- 👀 I’m interested in UI Components
-- 🌱 I’m currently learning SCRUM
-- 💞️ I’m looking to collaborate on UX UI
-- 📫 Reach me on:stefanstrcevic@rocketmail.com
+👋 Hi, I’m Stefan (Buliboul)
+🎯 Senior UX/Product Designer focused on scalable systems, accessibility, and meaningful user flows
+🧩 Exploring modular UI, semantic tools, and AI-assisted design logic
+🔬 Researching contextual design architectures and behavior-driven interfaces
+🛠 Currently prototyping tools for deep UX thinking and system clarity
+🌍 Based in Belgrade – open for remote collaboration
+📬 Reach me at: stefanstrcevic@rocketmail.com
 
-<!---
-Buliboul/Buliboul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
