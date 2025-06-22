@@ -1,4 +1,5 @@
 👋 Hi, I’m Stefan (Buliboul)
+
 🎯 Senior UX/Product Designer focused on scalable systems, accessibility, and meaningful user flows
 🧩 Exploring modular UI, semantic tools, and AI-assisted design logic
 🔬 Researching contextual design architectures and behavior-driven interfaces
